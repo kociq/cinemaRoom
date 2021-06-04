@@ -5,4 +5,4 @@ Enter: \
 1 to display free seats (S - free, B - booked),\
 2 to buy a ticket,\
 3 to display statistics,\
-0 to exit\
+0 to exit
